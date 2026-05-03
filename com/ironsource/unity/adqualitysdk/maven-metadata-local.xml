@@ -3,7 +3,7 @@
   <groupId>com.ironsource.unity</groupId>
   <artifactId>adqualitysdk</artifactId>
   <versioning>
-    <release>9.5.0</release>
+    <release>9.5.1</release>
     <versions>
       <version>6.2.0</version>
       <version>6.3.1</version>
@@ -123,7 +123,8 @@
       <version>9.4.0</version>
       <version></version>
       <version>9.5.0</version>
+      <version>9.5.1</version>
     </versions>
-    <lastUpdated>20260427114029</lastUpdated>
+    <lastUpdated>20260503100203</lastUpdated>
   </versioning>
 </metadata>
